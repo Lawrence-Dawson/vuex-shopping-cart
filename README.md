@@ -4,6 +4,12 @@
 
 This is a basic shopping cart app built using Vuex, with the help of an online tutorial.
 
+Cart View:
+![alt text](https://github.com/Lawrence-Dawson/vuex-shopping-cart/blob/master/src/assets/CartPage.png?raw=true "Cart view")
+
+Products View:
+![alt text](https://github.com/Lawrence-Dawson/vuex-shopping-cart/blob/master/src/assets/ProductsPage.png?raw=true "Products view")
+
 The tutorial can be found [here](https://medium.com/employbl/build-a-shopping-cart-with-vue-2-and-vuex-5d58b93c513f)
 
 ## Build Setup

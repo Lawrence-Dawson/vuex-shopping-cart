@@ -2,7 +2,7 @@
 
 > A Vuex project
 
-This is a basic shopping cart app built using Vuex, by following an online tutorial.
+This is a basic shopping cart app built using Vuex, with the help of an online tutorial.
 
 The tutorial can be found [here](https://medium.com/employbl/build-a-shopping-cart-with-vue-2-and-vuex-5d58b93c513f)
 
